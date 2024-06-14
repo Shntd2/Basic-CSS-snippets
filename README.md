@@ -1,4 +1,4 @@
-# Basic-CSS-snippets
+# CSS-snippets
 
 * This repository contains basic CSS templates created for educational purposes
 
