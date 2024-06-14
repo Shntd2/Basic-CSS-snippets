@@ -1,0 +1,25 @@
+.flag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.red {
+    height: 100px;
+    width: 60px;
+    background-color: red;
+}
+
+.green {
+    height: 100px;
+    width: 60px;
+    background-color: green;  
+}
+
+.purple {
+    height: 100px;
+    width: 60px;
+    background-color: purple;
+}
