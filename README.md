@@ -1,2 +1,5 @@
 # Basic-CSS-snippets
-Contains my basic CSS code templates. Navigate through them using file names
+
+* This repository contains basic CSS templates created for educational purposes
+
+* You can find suitable template using file names
